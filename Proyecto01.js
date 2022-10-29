@@ -10,12 +10,11 @@ const validarCliente=(time)=>{
         }
 
     }else{
-        alert("Eres menor de edad no puedes pasar");
+        alert("Eres menor de edad no puedes pasar, MAQUINOLA!");
     }
 
 }
 
 validarCliente(3);
-validarCliente(4);
-validarCliente(7);
+
 
